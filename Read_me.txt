@@ -1,4 +1,4 @@
-MarchingCubes Project by Bondarenko M. 26.12.2017
+MarchingCubes Project by Bondarenko M. 09.04.2018
 
 ///////////////////////////////////////////////////////////////////////
 
